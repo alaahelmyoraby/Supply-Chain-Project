@@ -3,8 +3,6 @@
 ## Overview
 This dataset provides a detailed view of various aspects of the supply chain process, including customer information, order details, shipping times, and product categories. It is designed for use in analyzing and improving supply chain performance, with a specific focus on delivery times, customer segmentation, and sales performance.
 
-The dataset contains both cleaned and non-cleaned versions for flexibility in your analysis.
-
 ## Columns in the Dataset
 
 1. **Type of Payment Method**: The payment method used for the transaction.
