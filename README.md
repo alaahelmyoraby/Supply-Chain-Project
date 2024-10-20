@@ -55,6 +55,4 @@ The dataset contains both cleaned and non-cleaned versions for flexibility in yo
 - **Cleaned Dataset**: (https://drive.google.com/file/d/1M07WTD70NN7XtTedRdDEZrzmKNP82Vtp/view?usp=drive_link)
 - **Non-Cleaned Dataset**: (https://docs.google.com/spreadsheets/d/1pwgHP2LbKlSkfuNiOsI6Fsf5gu9GE97s/edit?usp=sharing&ouid=107168115554048370853&rtpof=true&sd=true)
 
-The cleaned dataset has been processed to remove null values, duplicates, and anomalies, while the non-cleaned dataset retains the raw data for further exploratory analysis.
-
 ## Thanks
