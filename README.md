@@ -3,10 +3,10 @@
 ## Overview
 This dataset provides a detailed view of various aspects of the supply chain process, including customer information, order details, shipping times, and product categories. It is designed for use in analyzing and improving supply chain performance, with a specific focus on delivery times, customer segmentation, and sales performance.
 
-DEPI-FINAL PROJECT.pdf: This document provides an overview of the project, including all details
-Final_Project_Supply_Chain.ipynb: This Jupyter notebook contains the core analysis and model development for the project
-SupplyChain.sql: The SQL queries used to extract and manipulate the data from the database
-SupplyChain.twbx: A Tableau workbook that includes all the visualizations created to support the analysis and insights in the project."
+**DEPI-FINAL PROJECT.pdf**: This document provides an overview of the project, including all details
+**Final_Project_Supply_Chain.ipynb**: This Jupyter notebook contains the core analysis and model development for the project
+**SupplyChain.sql**: The SQL queries used to extract and manipulate the data from the database
+**SupplyChain.twbx**: A Tableau workbook that includes all the visualizations created to support the analysis and insights in the project."
 ## Columns in the Dataset
 
 1. **Type of Payment Method**: The payment method used for the transaction.
